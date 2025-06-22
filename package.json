@@ -1,0 +1,29 @@
+{
+  "name": "launch-capital-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp pour Launch Capital",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "express": "^4.18.2",
+    "qrcode": "^1.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "launch-capital",
+    "automation"
+  ],
+  "author": "Launch Capital",
+  "license": "MIT"
+}
