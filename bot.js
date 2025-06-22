@@ -121,11 +121,7 @@ Ou décrivez directement votre préoccupation, je vous aiderai avec plaisir ! �
 • 🏦 *Gestion de portefeuille*
 • 📈 *Analyses de marché*
 • 💰 *Solutions de financement*
-• 🎯 *Stratégies d'investissement personnalisées*
-
-*Souhaitez-vous plus d'informations sur un service particulier ?*
-
-Tapez le nom du service ou contactez notre équipe commerciale au : +237 xxx xxx xxx`,
+• 🎯 *Stratégies d'investissement personnalisées*`,
 
     technical: `🔧 *Support Technique*
 
@@ -190,11 +186,6 @@ Je suis là pour vous aider avec toutes vos questions concernant ${CONFIG.COMPAN
 Très bien ! Je vais vous mettre en relation avec un de nos conseillers.
 
 *Vos coordonnées et votre demande ont été transmises.*
-
-📞 *Vous pouvez aussi nous contacter directement :*
-• Téléphone : +237 xxx xxx xxx
-• Email : support@launchcapital.com
-• Horaires : Lun-Ven 8h-18h
 
 *Un conseiller vous contactera dans les plus brefs délais.*
 
