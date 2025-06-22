@@ -4,7 +4,7 @@ const QRCode = require('qrcode');
 const fs = require('fs').promises;
 const path = require('path');
 
-// Configuration 
+// Configuration
 const CONFIG = {
     PORT: process.env.PORT || 3000,
     COMPANY_NAME: 'Launch Capital',
